@@ -10,9 +10,9 @@ Solamente están disponibles las técnicas de apuesta Martingala y Labouchere In
 Es una técnica de apuesta con suerte simple. Apuestas una cantidad inicial
 a par o impar.
 ### Si ganas ###  
-Se te devuelve la apuesta inicial multiplicada por 2  
+- Se te devuelve la apuesta inicial multiplicada por 2  
 ### Si pierdes ###  
-Apuestas el doble de la apuesta inicial  
+- Apuestas el doble de la apuesta inicial  
 
 ## **Labouchere Inversa** ##
 También funciona con suerte simple, sin embargo la apuesta y la recompensa se calculan en base a un arreglo inicial, ya sea (1, 2, 3, 4) o uno distinto que sea definido, además que es un método en el que se apuesta en todo momento, ya sea que se gane o se pierda.
