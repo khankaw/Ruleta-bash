@@ -14,6 +14,9 @@ a par o impar.
 ### Si pierdes ###  
 - Apuestas el doble de la apuesta inicial  
 
+<img width="739" height="489" alt="Martingala" src="https://github.com/user-attachments/assets/88b555aa-764c-498a-8586-6ce47f189e7d" />
+
+
 ## **Labouchere Inversa** ##
 También funciona con suerte simple, sin embargo la apuesta y la recompensa se calculan en base a un arreglo inicial, ya sea (1, 2, 3, 4) o uno distinto que sea definido, además que es un método en el que se apuesta en todo momento, ya sea que se gane o se pierda.
 
@@ -26,3 +29,6 @@ La apuesta empezará a ser el primer elemento del arreglo más el último (1+4=5
 - Se quitan el último elemento del arreglo para calcuar la apuesta.
 - Si el arreglo se queda en 0 elementos se reinicia al original
 - Solamente se te quita la suma de los elementos como apuesta, no se quita el doble
+
+
+<img width="798" height="474" alt="Linversa" src="https://github.com/user-attachments/assets/1820e069-c5dd-4bb8-8202-de4f9eb13ac6" />
